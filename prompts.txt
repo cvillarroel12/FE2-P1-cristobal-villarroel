@@ -6,3 +6,6 @@ Necesito una mejor presentación. Debes: mejorar el diseño visual, aplicar esti
 
 3.
 El producto necesita ser mejor explicado al usuario. Debes agregar nuevas secciones, por ejemplo: características principales, beneficios del producto, especificaciones técnicas, posibles usos o ventajas frente a otros productos.
+
+4.
+El sitio será visualizado principalmente desde celulares. Debes: adaptar el diseño a pantallas pequeñas, asegurar buena legibilidad, evitar problemas de distribución o superposición.
