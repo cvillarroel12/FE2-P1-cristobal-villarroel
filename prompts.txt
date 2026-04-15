@@ -1,0 +1,2 @@
+1.
+Construye una primera versión del sitio de un smartwatch que incluya: nombre del producto, breve descripción, una estructura básica del sitio, y una sección destacada (presentación del producto).
