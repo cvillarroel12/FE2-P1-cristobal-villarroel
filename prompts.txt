@@ -1,2 +1,5 @@
 1.
 Construye una primera versión del sitio de un smartwatch que incluya: nombre del producto, breve descripción, una estructura básica del sitio, y una sección destacada (presentación del producto).
+
+2.
+Necesito una mejor presentación. Debes: mejorar el diseño visual, aplicar estilos más trabajados, mejorar la distribución del contenido, lograr una apariencia moderna.
