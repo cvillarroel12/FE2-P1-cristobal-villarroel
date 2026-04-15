@@ -9,3 +9,6 @@ El producto necesita ser mejor explicado al usuario. Debes agregar nuevas seccio
 
 4.
 El sitio será visualizado principalmente desde celulares. Debes: adaptar el diseño a pantallas pequeñas, asegurar buena legibilidad, evitar problemas de distribución o superposición.
+
+5.
+Debes incorporar una sección tipo ficha de producto o comparativa, que incluya: características organizadas (por ejemplo: tabla o listado), al menos 2–3 atributos técnicos relevantes, una presentación clara y ordenada de la información.
